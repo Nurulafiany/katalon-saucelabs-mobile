@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive: after a valid login the Products catalog is shown and the first product ("Sauce Labs Backpack") is listed.</description>
+   <name>TC05_Catalog_Product_List</name>
+   <tag>positive;catalog</tag>
+   <comment></comment>
+   <testCaseGuid>7a1f4c2e-0b3d-4e5a-9c11-000000000005</testCaseGuid>
+</TestCaseEntity>

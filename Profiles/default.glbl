@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>Default execution profile for the Sauce Labs Swag Labs mobile app. No data is hardcoded in Test Cases - everything is read from here.</description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <name>APP_FOLDER</name>
+      <initValue>'Apps'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>APP_FILE</name>
+      <initValue>'sauce-labs.2.7.1.apk'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>APP_PACKAGE</name>
+      <initValue>'com.swaglabsmobileapp'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>APP_ACTIVITY</name>
+      <initValue>'com.swaglabsmobileapp.MainActivity'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>VALID_USERNAME</name>
+      <initValue>'standard_user'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>VALID_PASSWORD</name>
+      <initValue>'secret_sauce'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>LOCKED_USERNAME</name>
+      <initValue>'locked_out_user'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>INVALID_USERNAME</name>
+      <initValue>'invalid_user'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>INVALID_PASSWORD</name>
+      <initValue>'wrong_password'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>MSG_USERNAME_REQUIRED</name>
+      <initValue>'Username is required'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>MSG_INVALID_CREDENTIALS</name>
+      <initValue>'Username and password do not match any user in this service.'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>MSG_LOCKED_OUT</name>
+      <initValue>'Sorry, this user has been locked out.'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>FIRST_PRODUCT_NAME</name>
+      <initValue>'Sauce Labs Backpack'</initValue>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <name>TIMEOUT</name>
+      <initValue>20</initValue>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

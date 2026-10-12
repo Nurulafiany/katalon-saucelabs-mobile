@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive: add the first catalog product to the cart; its action button must change from "ADD TO CART" to "REMOVE".</description>
+   <name>TC06_Add_To_Cart</name>
+   <tag>positive;cart</tag>
+   <comment></comment>
+   <testCaseGuid>7a1f4c2e-0b3d-4e5a-9c11-000000000006</testCaseGuid>
+</TestCaseEntity>
